@@ -27,6 +27,7 @@ This is a personal portfolio website built using [Next.js](https://nextjs.org/),
 
 ## Setup
 1. **Clone the repository**:
+   https://github.com/Dhanujaya2002/new-app11.git
 
 
 ## folder Structure
